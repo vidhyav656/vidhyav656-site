@@ -1,8 +1,11 @@
 ---
 title: "Contact"
 permalink: /contact/
-date: 2023-11-27T03:02:20+00:00
-seo_description: contact me 
+description: "Get in touch with Vidhya Venkatesan about frontend development and Liferay."
 ---
 
-Feel free to get in touch.
+I welcome conversations about frontend development, Liferay, and CMS projects. If you have a project in mind, include a little about what you're building and where you could use help.
+
+- [Email me](mailto:{{ site.author.email }})
+- [Connect on LinkedIn](https://www.linkedin.com/in/vidhyav656/)
+- [Find me on GitHub](https://github.com/vidhyav656)

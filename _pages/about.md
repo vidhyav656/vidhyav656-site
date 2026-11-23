@@ -1,31 +1,19 @@
 ---
 title: "About"
 permalink: /about/
-date: 2023-11-27T03:02:20+00:00
-seo_description: about me
+description: "Vidhya Venkatesan's background in frontend development, Liferay, and CMS websites."
 ---
 
-As a web developer with over 7 years of experience, I have a proven track record of delivering high-quality websites that exceed my clients' expectations.
+I'm Vidhya Venkatesan, a frontend developer based in Mumbai, India. I specialize in Liferay, responsive web design, and websites built with content management systems.
 
-I am passionate about using the latest technologies and tools to create innovative and engaging user experiences. Whether it's building a custom CMS or integrating the latest AI technology, I am always up for a challenge.
+## Experience
 
-Let's connect and see how I can help bring your web development projects to life.
+I designed and developed 24 international office websites for State Bank of India. I've worked on web projects with a 20-person team and built websites for clients in India, the US, Canada, Germany, and the UK.
 
-Expertise:
-- Web development
-- Responsive web design
-- Rapid prototyping and deployment
+## Tools I work with
 
-Technical skills:
-- Jekyll | Hugo
-- Liferay UI Developer | Frontend Liferay Developer
-- Frontend Web Developer | Content Management Systems (CMS)
-- HTML & Cascading Style Sheets (CSS) |
-- Bootstrap | JavaScript | jQuery |
-- Git | Github | Gitlab | Bitbucket
+- **CMS and static sites** — Liferay, Jekyll, Hugo
+- **Frontend** — HTML, CSS, Bootstrap, JavaScript, jQuery
+- **Version control** — Git, GitHub, GitLab, Bitbucket
 
-Achievements:
-- Worked on multiple projects in a team of 20 members across various verticals
-- Designed and developed 24 foreign office websites for State Bank of India (SBI) in Belgium, UK, USA, Canada, Australia, Bangladesh, Nepal, Seoul, Germany, Hong Kong, Maldives, Mauritius, Singapore, South Africa, Japan, Dubai, China, Sri Lanka, Singapore, Oman and many more.
-- Worked on projects sub-contracted by reputed clients/ companies like WIPRO, State Bank of India
-- Designed and developed websites for clients across the globe in USA, Canada, Germany, UK, and India
+[Explore my selected work]({{ '/work/' | relative_url }}), [read my frontend articles]({{ '/writing/' | relative_url }}), or [get in touch]({{ '/contact/' | relative_url }}).

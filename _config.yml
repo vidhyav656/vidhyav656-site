@@ -15,8 +15,8 @@ title                    : "Vidhya Venkatesan"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vidhya Venkatesan"
-description              : "With 7+ years of experience in helping clients in web development. Currently working with Aarav Global Products and Services As Frontend Liferay Developer."
-url                      : vidhyav656.tech # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Portfolio and technical writing by Vidhya Venkatesan, a frontend developer specializing in Liferay and responsive CMS websites."
+url                      : "https://vidhyav656.tech"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -100,7 +100,7 @@ analytics:
 author:
   name             : "Vidhya Venkatesan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "With 7+ years of experience in helping clients in web development. Currently working with Aarav Global Products and Services As Frontend Liferay Developer."
+  bio              : "Frontend developer specializing in Liferay, responsive design, and CMS websites."
   location         : "Mumbai, India"
   email            : "vidhyav656@gmail.com"
   links:
@@ -141,7 +141,6 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
